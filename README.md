@@ -18,3 +18,4 @@
 * Created a new app route `/blog` which renders `blog.html`.
 * Wrote multiline statements with Jinja in `blog.html` to display the blog data.
 
+### Step 4. To be updated.

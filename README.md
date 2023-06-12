@@ -15,7 +15,10 @@
 * Created a JSON storage bin containing fake blog data using [npoint.io](npoint.io). You can access this bin via the API at:
    https://api.npoint.io/93d4fda66d6ecc6f55dd. Anyone with the link is able to view this JSON bin.
 * Used the `requests` module to get the json data from the bin.
-* Created a new app route `/blog` which renders `blog.html`.
-* Wrote multiline statements with Jinja in `blog.html` to display the blog data.
 
-### Step 4. To be updated.
+### Step 4. 
+* Wrote multiline statements with Jinja in `index.html` to display the blog data.
+* Made a "Read" anchor tag at the end of each blog post preview link to a page with the entire blog post - title, subtitle and body.
+* The individual blog posts live at the path: URL/post/post_id.
+* Added static files for webpage styling.
+

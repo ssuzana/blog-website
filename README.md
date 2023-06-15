@@ -29,8 +29,8 @@
 * Updated `app.py` so that when you click on the `About` link in the navigation bar it goes to the About page and likewise with the Contact page.
 
 * Using the documentation from Jinja: https://jinja.palletsprojects.com/en/2.11.x/templates/#include
-  - removed the <head> & navigation code from index.html and place it in the header.html file.
-  - removed the <footer> from index.html and place it in the footer.html file.
+  - removed the `<head>` & navigation code from index.html and place it in the header.html file.
+  - removed the `<footer>` from index.html and place it in the footer.html file.
   create a header and footer template which can then be applied to all web pages in your website.
    - used `{% include "header.html" %}` and `{% include "footer.html" %}` to make the website still function exactly the same as before.
 

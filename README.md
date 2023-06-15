@@ -34,3 +34,6 @@
   create a header and footer template which can then be applied to all web pages in your website.
    - used `{% include "header.html" %}` and `{% include "footer.html" %}` to make the website still function exactly the same as before.
 
+* Step 5. Make the Contact Form Work.
+ To be updated.   
+
